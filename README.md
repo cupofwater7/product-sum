@@ -1,4 +1,7 @@
+                                                Coding Interview Questions
 # product-sum
+
+Difficulty: easy
 
 
   Write a function that takes in a "special" array and returns its product sum.
